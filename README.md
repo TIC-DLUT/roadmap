@@ -14,7 +14,7 @@
 
 #### 开发知识扫盲
 
-- [ ] [什么是前端](BasicDevelop/frontend.md)
+- [x] [什么是前端](BasicDevelop/frontend.md)
 - [x] [什么是后端](BasicDevelop/backend.md)
 
 #### 后端
