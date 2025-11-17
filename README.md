@@ -40,5 +40,5 @@
 
 #### 常见工具学习指南
 
-- [ ] Git
+- [x] [Git](Git.md)
 - [x] [Docker](tools/docker.md)
